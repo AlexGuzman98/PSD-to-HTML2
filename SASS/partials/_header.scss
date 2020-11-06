@@ -1,0 +1,29 @@
+.header{
+  padding: 40px;
+  margin: auto;
+
+}
+
+#direction{
+  font-size: 15px;
+  float: left;
+  margin-left: 87px;
+  font-family: 'Trebuchet MS';
+}
+
+#navlista li {
+  margin-left: -100px;
+  float: right;
+  text-decoration: none;
+  list-style: none;
+  a{
+    text-decoration: none;
+    color: #8f8f8f;
+  }
+}
+.btn-g a{
+  text-decoration: none;
+  text-transform: uppercase;
+  border: 1px solid #7bb84f;
+  background-color: #7bb84f;
+}
