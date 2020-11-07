@@ -1,18 +1,20 @@
 .header{
   padding: 40px;
   margin: auto;
-
 }
 
 #direction{
   font-size: 15px;
   float: left;
+  padding-top: 10px;
   margin-left: 87px;
   font-family: 'Trebuchet MS';
 }
 
 #navlista li {
-  margin-left: -100px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-left: -80px;
+  margin-right: 90px;
   float: right;
   text-decoration: none;
   list-style: none;
@@ -20,10 +22,4 @@
     text-decoration: none;
     color: #8f8f8f;
   }
-}
-.btn-g a{
-  text-decoration: none;
-  text-transform: uppercase;
-  border: 1px solid #7bb84f;
-  background-color: #7bb84f;
 }

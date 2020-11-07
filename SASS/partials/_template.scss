@@ -4,16 +4,39 @@
   margin: auto;
   padding: auto;
 }
+p{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size:1.400rem;
+}
+// Contenido 1
 .content-1{
 text-align: center;
-margin: 0 125px 125px 125px;
+margin: 0 125px 125px 128px;
+padding-bottom:100px ;
 background-color: white;
-
-img{
+  img{
   max-width: 100%;
+  }
 }
+.btn-g  {
+  margin:auto 210px auto 210px ;
+  padding: 10px 50px;
+  border: 1px solid #7bb84f;
+  background-color: #7bb84f;
+  a{
+    font-size:10px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
 }
-
+.btn-g:hover{
+  background-color: white;
+  a{
+  color:  #7bb84f;;
+  }
+}
+// Contenido 2
 .content-2{
   text-align: center;
   margin: 0 125px 125px 125px;
@@ -23,5 +46,51 @@ img{
     max-width: 100%;
   }
 }
+.btn-y {
+  margin:auto 210px auto 210px ;
+  padding: 10px 50px;
+  border: 1px solid #f5ba1c;
+  background-color: #f5ba1c;
+  a{
+
+    font-size:10px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+}
+.btn-y:hover{
+  background-color: white;
+  a{
+  color:  #f5ba1c;;
+  }
+}
+// Contenido 3
+.content-3{
+  text-align: center;
+  margin: 0 125px 125px 128px;
+  padding-bottom:100px ;
+  background-color: white;
+
+}
+// Contenido 4
+.content-4{
+  text-align: center;
+  margin: 0 125px 125px 128px;
+  padding-bottom:100px ;
+  background-color: #292c34;
+  color: white;
+  img {
+    padding:3px;
+  }
+}
+// Contenido 5
+.content-5{
+  text-align: center;
+  margin: 0 125px 125px 128px;
+  padding-bottom:100px ;
+  background-color: white;
+}
+
 
 
