@@ -1,0 +1,28 @@
+// Contenido 3
+.content-3{
+  text-align: center;
+  margin: $margin-content;
+  padding-bottom:100px ;
+  background-color: white;
+}
+.info-content3{
+  padding: 50px;
+}
+// Box to Box
+
+.btn-b{
+    font-family:$family;
+    padding: 10px 50px;
+    border: 1px solid #40aceb;
+    background-color: #40aceb;
+    font-size:10px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 5px;
+
+}
+.btn-b:hover{
+    background-color: white;
+    color: #40aceb;
+}

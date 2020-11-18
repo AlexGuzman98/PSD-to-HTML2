@@ -1,18 +1,19 @@
 .header{
   padding: 40px;
-  margin: auto;
+  margin:  0 525px;
 }
 
 #direction{
   font-size: 15px;
   float: left;
   padding-top: 10px;
-  margin-left: 87px;
+  margin-left: 90px;
   font-family: 'Trebuchet MS';
 }
 
 #navlista li {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding-top: 5px;
+  font-family: $family;
   margin-left: -80px;
   margin-right: 90px;
   float: right;
