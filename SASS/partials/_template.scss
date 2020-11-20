@@ -1,17 +1,9 @@
 
-.wrapper{
-  background-color: #eaeced;
-  font-family: $family;
-  margin: 0;
-}
-p{
-  font-size:1.400rem;
-}
 // Contenido 1
 .content-1{
     text-align: center;
-    margin: $margin-content;
-    padding-bottom:100px ;
+    margin-bottom: $margin-content;
+    padding-bottom: 100px;
     background-color: white;
       img{
         max-width: 100%;

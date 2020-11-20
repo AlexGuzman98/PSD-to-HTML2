@@ -1,8 +1,8 @@
 // Contenido 3
 .content-3{
   text-align: center;
-  margin: $margin-content;
-  padding-bottom:100px ;
+  margin-bottom: $margin-content;
+  padding-bottom: 100px;
   background-color: white;
 }
 .info-content3{
@@ -13,6 +13,7 @@
   width: 50%;
   float: left;
   img{
+    max-width: 100%;
     display: block;
   }
   .box1-texto{
@@ -28,9 +29,11 @@
   }
 }
 .box-2{
+
   width: 50%;
   float: right;
   img{
+    max-width: 100%;
     display: block;
   }
   .box2-texto{
@@ -49,6 +52,7 @@
   width: 50%;
   float: right;
    img{
+    max-width: 100%;
     display: block;
    }
   .box3-text{
@@ -67,6 +71,7 @@
   width: 50%;
   float: right;
   img{
+    max-width: 100%;
     display: block;
   }
   .box4-text{
@@ -80,8 +85,8 @@
     }
   }
 }
-
 .btn-b{
+    padding-top: 100px;
     font-family:$family;
     padding: 10px 50px;
     border: 1px solid #40aceb;
