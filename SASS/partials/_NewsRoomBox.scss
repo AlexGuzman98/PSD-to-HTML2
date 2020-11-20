@@ -18,8 +18,7 @@
   }
   .box1-texto{
     text-align: right;
-    padding-top: 1px;
-    padding-bottom: 1px;
+    padding: 30px 20px 48px 40px;
     color: white;
     background-color: #A4D3F3;
     h3,p{
@@ -38,8 +37,7 @@
   }
   .box2-texto{
     text-align: left;
-    padding-top: 1px;
-    padding-bottom: 1px;
+    padding: 30px 20px 50px 40px;
     color: white;
     background-color: #0071BD;
     h3,p{
@@ -57,8 +55,7 @@
    }
   .box3-text{
     text-align: left;
-    padding-top: 1px;
-    padding-bottom: 1px;
+    padding: 30px 20px 10px 40px;
     color: white;
     background-color: #333C4D;
     h3,p{
@@ -76,7 +73,7 @@
   }
   .box4-text{
     text-align: right;
-    padding-bottom: 1px;
+    padding: 0px 0px 60px 0px;
     color: white;
     background-color: #A4D3F3;
     h3,p{
@@ -86,7 +83,7 @@
   }
 }
 .btn-b{
-    padding-top: 100px;
+
     font-family:$family;
     padding: 10px 50px;
     border: 1px solid #40aceb;
